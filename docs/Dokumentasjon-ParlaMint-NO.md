@@ -74,6 +74,4 @@ https://github.com/clarin-eric/ParlaMint/
 Clarin ERIC:
 https://www.clarin.eu/  
 Github repo med scripts for å lage dette korpuset.
-https://github.com/tungland/ParlaMint-NO-scripts
-
-
+https://github.com/NationalLibraryOfNorway/ParlaMint-NO-scripts
